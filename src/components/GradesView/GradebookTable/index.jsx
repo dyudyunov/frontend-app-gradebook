@@ -8,7 +8,7 @@ import { FormattedMessage } from '@edx/frontend-platform/i18n';
 
 import selectors from 'data/selectors';
 import { Headings } from 'data/constants/grades';
-import getLocalizedPercentSign from 'data/i18n'
+import getLocalizedPercentSign from 'i18n'
 
 import messages from './messages';
 import Fields from './Fields';
